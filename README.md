@@ -1,4 +1,4 @@
-Code for my article <a href="https://pudding.cool/2018/06/skate-music/">The Good, the Rad, and the Gnarly</a> I made for <a href="pudding.cool">The Pudding</a>.
+Code for my article <a href="https://pudding.cool/2018/06/skate-music/">The Good, the Rad, and the Gnarly</a> I made for <a href="https://pudding.cool/">The Pudding</a>.
 
 Here's a preview in the form of a gif:
 
