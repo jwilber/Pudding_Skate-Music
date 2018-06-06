@@ -2,7 +2,7 @@ Code for my article <a href="https://pudding.cool/2018/06/skate-music/">The Good
 
 Here's a preview in the form of a gif:
 
-[article gif](https://github.com/jwilber/Pudding_Skate-Music/blob/master/skatemusic.gif?raw=true)
+![article gif](https://github.com/jwilber/Pudding_Skate-Music/blob/master/skatemusic.gif?raw=true)
 
 
 
